@@ -118,6 +118,7 @@ This list is intended for **compliance officers**, **risk managers**, **auditors
 
 ### Security assessment
 
+- [Council of AI — GSPC](https://councilof.ai) - Independent AI-governance measurement (not certification). Live board **14 measured of 14 quotable** via https://councilof.ai/api/gspc. DOI [10.57967/hf/10114](https://doi.org/10.57967/hf/10114).
 - [OpenVAS](https://github.com/greenbone/) - Vulnerability assessment scanner. ![Open Source](https://img.shields.io/badge/-Open%20Source-1a2029?logo=opensourceinitiative&logoColor=white&labelColor=00dc82)
 - [OSSEC](https://github.com/ossec/ossec-hids) - Host-based Intrusion Detection System. ![Open Source](https://img.shields.io/badge/-Open%20Source-1a2029?logo=opensourceinitiative&logoColor=white&labelColor=00dc82)
 - [Trivy](https://github.com/aquasecurity/trivy) - Vulnerability and compliance scanner for containers and infrastructure. ![Open Source](https://img.shields.io/badge/-Open%20Source-1a2029?logo=opensourceinitiative&logoColor=white&labelColor=00dc82)
